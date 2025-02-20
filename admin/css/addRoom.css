@@ -1,0 +1,18 @@
+
+.input-control.success input {
+    border-color: #09c372;
+}
+.input-control.error1 input {
+    border-color: #ff3860 ;
+}
+.input-control .error1 {
+    color: #ff3860;
+    font-size: 12px;
+}
+.input-control.error1 #detail{
+    border-color: #ff3860 ;
+}
+.input-control .error1 {
+    color: #ff3860;
+    font-size: 12px;
+}
